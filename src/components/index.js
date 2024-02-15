@@ -1,0 +1,7 @@
+export {default as Navbar} from './navbar/Navbar.jsx'
+export {default as Footer} from './footer/Footer.jsx'
+export {default as HomePage} from './main/homePage/HomePage.jsx'
+export {default as Cryptocurrencies} from './main/cryptocurrencies/Cryptocurrencies.jsx'
+export {default as CryptoDetails} from './main/cryptoDetails/CryptoDetails.jsx'
+export {default as Exchanges} from './main/exchanges/Exchanges.jsx'
+export {default as News} from './main/news/News.jsx'
